@@ -1,4 +1,5 @@
 mine = "I am a happy little sentence"
+words_array = mine.split(/ /)
 mine.split("")
 p mine
 
