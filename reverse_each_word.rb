@@ -1,7 +1,5 @@
 mine = "I am a happy little sentence"
-array = []
-array.push(mine)
-array.split("")
+mine.split("")
 puts array
 
 def reverse_each_word(sentence)
