@@ -1,6 +1,5 @@
 mine = "I am a happy little sentence"
-words_array = mine.split(/ /)
-p words_array
+
 
 def reverse_each_word(sentence)
   array_of_words = sentence.split(/ /)
@@ -10,4 +9,4 @@ def reverse_each_word(sentence)
   array_of_words
 end
 
-#puts %w(array_of_words)
+puts reverse_each_word(mine)
