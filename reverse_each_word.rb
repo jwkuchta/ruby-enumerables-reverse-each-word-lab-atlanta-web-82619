@@ -1,4 +1,5 @@
 mine = "I am a happy little sentence"
+mine2 = ["I", "am", "very", "intrigued"]
 
 
 def reverse_each_word(sentence)
