@@ -1,3 +1,5 @@
+mine = "I am a happy little sentence"
+
 def reverse_each_word(sentence)
   array_of_words = []
   array_of_words.push(sentence)
@@ -6,3 +8,5 @@ def reverse_each_word(sentence)
   end
   array_of_words
 end
+
+
