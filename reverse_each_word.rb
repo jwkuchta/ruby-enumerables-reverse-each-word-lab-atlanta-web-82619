@@ -1,7 +1,6 @@
 mine = "I am a happy little sentence"
 words_array = mine.split(/ /)
-mine.split("")
-p mine
+p words_array
 
 def reverse_each_word(sentence)
   array_of_words = []
