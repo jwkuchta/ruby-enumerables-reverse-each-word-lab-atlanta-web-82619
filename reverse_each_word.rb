@@ -6,7 +6,6 @@ mine2.flatten
 def reverse_each_word(sentence)
   array_of_words = sentence.split(/ /)
   array_of_words.collect{|w| w.reverse!}
-  end
   array_of_words.join(" ")
 end
 
