@@ -9,4 +9,4 @@ def reverse_each_word(sentence)
   array_of_words
 end
 
-puts reverse_each_word(mine)
+puts %w(array_of_words)
