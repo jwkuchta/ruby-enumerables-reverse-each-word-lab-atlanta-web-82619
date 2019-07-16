@@ -1,2 +1,2 @@
 reverse_each_word = ("Hello there, and how are you?")
-%w(reverse_each_word)
+array_of_words = %w(reverse_each_word)
